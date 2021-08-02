@@ -1,0 +1,25 @@
+﻿Numero  Campaña,Nombre campaña,Fecha de inicio,Total de Campañas,Enviados,Entregados,%,Abiertos,%,Click en CHKT,%,Realizaron la Acción,Total cambio de segmento,Sin enfermedad,Bajo riesgo,Alto riesgo,Sospecha,Con enfermedad SC,Con enfermedad CC
+1,Prevención Influenza Estacional,30/10/2018,2,"28,194","26,222",93.00%,"8,283",31.60%,,,141,,,,,,,
+2,Mensaje de invitación para hacer uso de App CHKT en Línea (Sin Información Diabetes),14/01/2019,5,"195,239","193,169",98.90%,"46,153",23.90%,"2,522",5.46%,1032,"6,091","3,280","1,667",361,688,89,6
+3,Mensaje de invitacion para hacer uso de App CHKT en Línea (Sin Informacion CaMa),14/01/2019,5,"137,112","135,770",99.02%,"32,780",24.14%,"2,451",7.48%,1418,"2,127","2,002",60,40,18,7,0
+4,Mensaje de invitación para hacer uso de App CHKT en Línea (Sin Diabetes),15/01/2019,1,"54,459","51,999",95.50%,"17,487",33.60%,"2,033",11.60%,898,863,,0,0,785,76,2
+5,Mensaje de invitación anual para hacer uso de App CHKT en Línea (Diabetes Bajo riesgo),16/01/2019,1,"5,192","5,083",97.90%,"1,430",28.10%,102,7.10%,55,178,139,,11,27,1,0
+6,Mensaje de Invitación para realizar prueba de glucosa capilar (Alto Riesgo),17/01/2019,2,"2,705","2,637",97.49%,904,34.28%,,,3,166,96,21,,44,5,0
+7,Mensaje de invitación para realizar prueba de glucosa capilar (Sospecha Diabetes),18/01/2019,2,"90,863","88,408",97.30%,"33,995",38.50%,,,84,588,488,0,0,,91,9
+8,Mensaje de Invitación para programar cita con el Médico Familiar (Sin uso de servicios en los últimos 2 años Diabetes),18/01/2019,1,119,118,99.20%,45,38.10%,,,2,7,0,0,0,0,5,2
+9,Mensaje de invitación para hacer uso de App CHKT en Línea (Sin Información Hipertensión),21/01/2019,5,"140,699","140,371",99.77%,"33,586",23.93%,"1,489",4.43%,572,"2,626","2,034",58,342,127,65,0
+10,Mensaje de invitación anual para hacer uso de App CHKT en Línea (Sin Hipertensión),22/01/2019,1,"71,040","69,531",97.90%,"20,637",29.70%,"1,924",9.30%,806,346,,7,10,121,208,0
+11,Mensaje de invitación para cita de mastografía de detección (Mujeres de 50 a 69 años),22/01/2019,1,"8,391","8,200",97.70%,"2,983",36.40%,,,21,107,78,7,2,16,4,0
+12,Mensaje de invitación anual para hacer uso de App CHKT en Línea (HTA Bajo riesgo),23/01/2019,1,"1,575","1,556",98.80%,440,28.30%,47,10.70%,11,56,42,,9,2,3,0
+13,Mensaje de Invitación para realizar toma de Presión arterial (Alto Riesgo),24/01/2019,2,"3,120","2,761",88.49%,"1,341",48.57%,,,,100,93,0,,4,3,0
+14,Mensaje de Invitación para realizar toma de Presión arterial (Sospecha Hipertensión),25/01/2019,2,"7,496","7,279",97.10%,"2,349",32.30%,,,2,150,120,0,1,,29,0
+15,Mensaje de Invitación para programar cita con el Médico (Sin uso de servicio en los ultimos 2 años Hipertensión),25/01/2019,1,297,295,99.30%,116,39.30%,,,9,15,0,0,0,0,15,0
+16,Mensaje de invitación para cita de mastografía de detección (Mujeres de 50 a 69 años) al mes del primer envio,22/02/2019,1,"8,452","8,312",98.30%,"2,821",33.90%,,,6,25,19,1,0,5,0,0
+17,Invitación a Realizar Mastografia (CDMX SUR),30/04/2019,1,"10,167","9,661",95.00%,"5,040",52.20%,,,,377,114,78,89,94,2,0
+18,Mensaje de Invitación para hacer uso de la App CHKT en Línea (Sin Información CDMX SUR),02/05/2019,1,"59,557","55,966",94.00%,"26,751",47.80%,,,130,603,399,115,81,5,0,3
+19,Invitación a Realizar Mastografia (CDMX NORTE),30/04/2019,1,"3,970","3,646",91.84%,"1,849",50.71%,,,918,598,434,97,67,0,0,0
+20,Mensaje de Invitación para hacer uso de la App CHKT en Línea (Sin Información CDMX NORTE),02/05/2019,1,"26,273","24,727",94.12%,"7,601",30.74%,,,,332,93,64,78,97,0,0
+21,Mensaje de recordatorio de cita con el Médico Familiar Segmento Diabetes CC,13/05/2019,1,47,42,89.36%,22,52.40%,,,19,,,,,,,
+22,Mensaje de recordatorio de cita con el Médico Familiar Segmento Pre Diabetes,13/05/2019,1,172,144,83.72%,72,50.00%,,,63,,,,,,,
+23,Mensaje de recordatorio de cita con el Médico Familiar (Hipertensión sin Complicaciones),13/05/2019,1,162,153,94.44%,58,37.90%,,,48,,,,,,,
+24,Mensaje de recordatorio de cita con el Médico Familiar Segmento Diabetes SC,13/05/2019,1,173,164,94.80%,73,44.50%,,,69,,,,,,,
